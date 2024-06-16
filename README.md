@@ -12,8 +12,13 @@
 
 <h2 align="center"> 🚀 Even more stats 🚀</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Williams-J007&bg_color=22272e&border_color=444c56&text_color=adbac7&show_icons=true&title_color=e72c2b&icon_color=ff565a)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Williams-J007&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Williams-J007&bg_color=22272e&border_color=444c56&text_color=adbac7&show_icons=true&title_color=e72c2b&icon_color=ff565a" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Williams-J007&theme=tokyonight" />
+</p>
+
 <div align="middle"><img src="https://komarev.com/ghpvc/?username=Williams-J007&color=blueviolet"></div>
 
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
