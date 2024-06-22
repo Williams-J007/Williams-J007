@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=22F72E&center=true&vCenter=true&width=435&lines=Welcome+to+Williams-J's+Profile)](https://git.io/typing-svg)
-<hr>
-  <h3>Languages and Tools that I am learning/have interest in:</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </br>
   <div align="center">
+    <h3>Languages and Tools that I am learning/have interest in:</h3>
+    </br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,tailwind,react,vite,mysql,git,bash,linux,docker,jest,gcp" />
     </a>
@@ -11,7 +12,6 @@
 </section>
 
 <h2 align="center"> 🚀 Even more stats 🚀</h2>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Williams-J007&bg_color=22272e&border_color=444c56&text_color=adbac7&show_icons=true&title_color=e72c2b&icon_color=ff565a" />
 </p>
